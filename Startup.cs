@@ -8,9 +8,9 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using MeseroOnline.Models;
 using Pomelo.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using MeseroOnline.Models;
 
 namespace MeseroOnline
 {
